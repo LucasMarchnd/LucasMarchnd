@@ -23,14 +23,17 @@ I'm looking for a **junior Software / AI Engineer position starting September 20
 
 ### AI, Video and Edge Systems
 
+- [SHARP - Smart Hand Automated Recognition Project](https://github.com/AliceLaurent/Smart-Hand-Automated-Recognition-Project)  
+  Group MLOps project for real-time hand and finger recognition with YOLO11, Docker, MLflow, FastAPI serving and a React frontend.
+
 - [Edge Video AI Crowd Monitoring](https://github.com/LucasMarchnd/edge-video-ai-crowd-monitoring)  
   Sanitized portfolio summary of a second-year internship on real-time edge video acquisition, monitoring, AI inference integration and dashboarding.
 
-- [Genetic Snake AI](https://github.com/LucasMarchnd/genetic-snake-ai)  
-  Python Snake agent trained with a genetic algorithm, using population selection, mutation and genome-based decision logic.
-
 - [PPO RL Navigation Agent](https://github.com/LucasMarchnd/ppo-rl-navigation-agent)  
   Public-safe PPO implementation in PyTorch with a small generic navigation environment and mixed map/vector observations.
+
+- [Genetic Snake AI](https://github.com/LucasMarchnd/genetic-snake-ai)  
+  Python Snake agent trained with a genetic algorithm, using population selection, mutation and genome-based decision logic.
 
 ### Parallel Computing and Optimization
 
