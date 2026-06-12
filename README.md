@@ -1,8 +1,9 @@
-# Hi, I'm Lucas Marchand
+# Hi, I'm Lucas Marchand 👋
 
-**Software Engineering student focused on backend systems, data, AI and high-performance computing.**
+**Junior Software Engineer — Backend, AI & High-Performance Computing**  
+Python • C/C++ • Backend • GenAI • Computer Vision • Parallel Computing
 
-I'm a final-year engineering student in computer science, building projects across **GenAI systems**, **backend engineering**, **real-time video/AI pipelines**, **parallel computing**, and **reinforcement learning**.
+I'm a final-year engineering student in computer science, building projects across **GenAI systems**, **backend engineering**, **real-time video/AI pipelines**, **parallel computing**, and **applied machine learning**.
 
 I'm looking for a **junior Software / AI Engineer position starting September 2026**, preferably around Paris / Île-de-France, Strasbourg, Lille or Grenoble.
 
