@@ -1,79 +1,94 @@
-# Hi, I'm Lucas Marchand 👋
+# Hi, I'm Lucas Marchand
 
-**Junior Software Engineer / Agentic AI Engineer**
-Python • Backend • Cloud • Data • GenAI • Multi-Agent Systems
+**Software Engineering student focused on backend systems, data, AI and high-performance computing.**
 
-I'm a final-year engineering student in computer science, currently working on **industrial GenAI systems**: multi-agent workflows, NLP-to-SQL, RAG, cloud deployment and production constraints.
+I'm a final-year engineering student in computer science, building projects across **GenAI systems**, **backend engineering**, **real-time video/AI pipelines**, **parallel computing**, and **reinforcement learning**.
 
 I'm looking for a **junior Software / AI Engineer position starting September 2026**, preferably around Paris / Île-de-France, Strasbourg, Lille or Grenoble.
 
 ---
 
-## What I work on
+## What I Work On
 
-* **Agentic AI systems**: multi-agent orchestration, tool calling, routing, fallback and evaluation
-* **NLP-to-SQL / Talk-to-Data**: turning business questions into reliable SQL queries
-* **Backend engineering**: Python, APIs, testing, error handling, maintainable code
-* **Cloud & data**: GCP, Vertex AI, BigQuery, deployment constraints, inference cost optimization
-* **Production mindset**: monitoring, semantic caching, dry-run validation, AgentsOps / MLOps practices
-
----
-
-## Current focus
-
-I'm currently building and improving systems around:
-
-* Google ADK v2 and graph-based agent workflows
-* RAG and SQL generation over industrial data
-* Evaluation of generated SQL queries
-* Local lightweight routing models to reduce LLM inference cost
-* Robust Python backend components for GenAI applications
+- **Agentic AI and NLP-to-SQL**: multi-agent workflows, SQL generation, validation, correction loops and traceability.
+- **Backend engineering**: Python APIs, testing, data workflows, maintainable service design.
+- **Real-time systems**: video streaming, embedded devices, monitoring, dashboards and reliability.
+- **High-performance computing**: OpenMP/MPI, parallel search, profiling and optimization.
+- **Applied AI**: reinforcement learning, computer vision and model integration.
 
 ---
 
-## Featured projects
+## Featured Projects
 
-### Agentic AI / NLP-to-SQL
+### AI, Video and Edge Systems
 
-Multi-agent workflows for querying structured data in natural language.
-Focus: orchestration, SQL generation, validation, correction loops, traceability and production reliability.
+- [Edge Video AI Crowd Monitoring](https://github.com/LucasMarchnd/edge-video-ai-crowd-monitoring)  
+  Sanitized portfolio summary of a second-year internship on real-time edge video acquisition, monitoring, AI inference integration and dashboarding.
 
-### Real-time Computer Vision on Edge
+- [Genetic Snake AI](https://github.com/LucasMarchnd/genetic-snake-ai)  
+  Python Snake agent trained with a genetic algorithm, using population selection, mutation and genome-based decision logic.
 
-Crowd analysis platform deployed on NVIDIA Jetson for a Formula 1 Grand Prix safety use case.
-Stack: RTSP streams, depth maps, Flask, React, Nginx, watchdog and error recovery.
+- [PPO RL Navigation Agent](https://github.com/LucasMarchnd/ppo-rl-navigation-agent)  
+  Public-safe PPO implementation in PyTorch with a small generic navigation environment and mixed map/vector observations.
 
-### Systems & Backend
+### Parallel Computing and Optimization
 
-Low-level networking and backend projects in C / Python, including TCP client-server-proxy experiments and API-oriented applications.
+- [Tetranucleotide Circular Codes](https://github.com/LucasMarchnd/tetranucleotide-circular-codes)  
+  Group C++/OpenMP bioinformatics project for counting self-complementary tetranucleotide circular codes. I worked mainly on the OpenMP parallel tree traversal and performance-oriented search.
+
+- [Parallel Epidemic Simulation](https://github.com/LucasMarchnd/parallel-epidemic-simulation)  
+  C simulation comparing sequential, OpenMP, MPI and hybrid parallel implementations on a grid-based epidemic propagation model.
+
+### Systems, Compilers and Data
+
+- [COREC RISC-V Compiler](https://github.com/LucasMarchnd/corec-riscv-compiler)  
+  Compiler prototype for the COREC language targeting RISC-V assembly, built with C, Lex/Flex and Yacc/Bison-style tooling.
+
+- [Movie Recommendation Engine](https://github.com/LucasMarchnd/movie-recommendation-engine)  
+  C recommendation and statistics engine inspired by Netflix-style rating datasets, with parsing, binary serialization and CLI tools.
 
 ---
 
-## Tech stack
+## Current Focus
 
-**Languages**
+I'm currently improving systems around:
+
+- graph-based agent workflows
+- RAG and SQL generation over industrial data
+- evaluation of generated SQL queries
+- lightweight routing models to reduce LLM inference cost
+- robust Python backend components for GenAI applications
+
+---
+
+## Tech Stack
+
+**Languages**  
 Python, C, C++, SQL, JavaScript
 
-**Backend / Software**
+**Backend / Software**  
 FastAPI, Flask, REST APIs, Pydantic, asyncio, Docker, testing, Git
 
-**AI / Data**
-LLMs, RAG, NLP-to-SQL, embeddings, multi-agent workflows, evaluation, semantic caching
+**AI / Data**  
+LLMs, RAG, NLP-to-SQL, embeddings, multi-agent workflows, evaluation, reinforcement learning, computer vision
 
-**Cloud / Infra**
+**Systems / Performance**  
+OpenMP, MPI, CMake, Linux, profiling, parallel algorithms
+
+**Cloud / Infra**  
 Google Cloud Platform, Vertex AI, BigQuery, Docker, CI/CD basics
 
 ---
 
-## What I'm looking for
+## What I'm Looking For
 
 I'm looking for a first full-time role as:
 
-* Junior Software Engineer
-* Backend Python Engineer
-* AI Engineer / GenAI Engineer
-* Agentic AI Engineer
-* Data & AI Engineer
+- Junior Software Engineer
+- Backend Python Engineer
+- AI Engineer / GenAI Engineer
+- Agentic AI Engineer
+- Data & AI Engineer
 
 Available from **September 2026**.
 
@@ -81,5 +96,5 @@ Available from **September 2026**.
 
 ## Contact
 
-* LinkedIn: https://www.linkedin.com/in/lucassmarchand
-* Email: [contact@lucasmarchand.dev](mailto:contact@lucasmarchand.dev)
+- LinkedIn: https://www.linkedin.com/in/lucassmarchand
+- Email: [contact@lucasmarchand.dev](mailto:contact@lucasmarchand.dev)
